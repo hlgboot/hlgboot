@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @hlgboot
-- 👀 I’m interested in ReactJS - Typescript in General
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Matheus Henriques from Brazil
+- 👀 I’m interested in ReactJS, React Native and NodeJS
+- 🌱 I’m currently learning ReactJS and NodeJS
+- 📫 Contacte me matheushlg10@gmail.com
